@@ -1,0 +1,11 @@
+﻿body {
+    background-color: black;
+}
+
+ul {
+    margin: 0;
+    padding: 10px;
+    list-style: none;
+    color: white;
+    font-family: Consolas;
+}
